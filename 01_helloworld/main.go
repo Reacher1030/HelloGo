@@ -7,3 +7,4 @@ func main() {
 }
 
 // edited from github
+// yup, that worked. what about other direction?
